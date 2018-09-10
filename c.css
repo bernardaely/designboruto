@@ -1,0 +1,75 @@
+body{
+    background-image: url(background+boruto.png);
+}
+
+ul li{ 
+    float: right;
+    display: block;
+    position: relative;
+    top: 140px;
+    right: 200px;
+    margin: 0 10px 0 10px;
+    text-decoration: none;
+    color: green;
+    font-family: sans-serif;
+    margin: 0 0 0 40px;
+
+}
+
+a{
+    text-decoration: none;
+    color: gray;
+}
+
+h1{
+    color: #3F4754;
+    position: relative;
+    margin: 0 0 0 203px;
+    font-size: 40px;
+    top: 270px;
+    font-family: sans-serif;
+}
+
+.logo{
+    position: relative;
+    top: -127px;
+    left: 190px;
+}
+
+.navigasi:hover{
+    color: rgb(49, 49, 49);
+    text-decoration: underline;
+
+}
+
+.content{
+    position: relative;
+    top: 272px;
+    margin: 10px 0 0 205px;
+    color: #8D9097;   
+    font-family: sans-serif;
+}
+
+.find{
+    background-color:  rgb(121, 117, 115);
+    padding: 15px 40px 15px 40px;
+    border-radius: 5px;
+    color:white;
+    font-size: 10px;
+    font-weight: bold;
+    position: relative;
+    top: 290px;
+    left: 205px;
+    box-shadow: 5px 5px 15px 0px #888;
+    text-decoration: none;
+    font-family: sans-serif;
+
+}
+
+.find:hover{
+    background-color: rgb(51, 51, 51);
+    padding: 16px 50px 16px 50px;
+    transition: 0.3s;
+    font-size: 14px;
+
+}
